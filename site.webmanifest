@@ -1,0 +1,16 @@
+{
+  "name": "Elegant Store Tanger",
+  "short_name": "Elegant Store",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f1e8",
+  "theme_color": "#c6a46c",
+  "description": "Stores, rideaux et moustiquaires sur mesure a Tanger.",
+  "icons": [
+    {
+      "src": "assets/brand/elegant-store-logo-icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
